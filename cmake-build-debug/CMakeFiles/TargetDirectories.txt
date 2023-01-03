@@ -1,0 +1,3 @@
+C:/Users/Wai Hin/CLionProjects/assigment-two/cmake-build-debug/CMakeFiles/assigment_two.dir
+C:/Users/Wai Hin/CLionProjects/assigment-two/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wai Hin/CLionProjects/assigment-two/cmake-build-debug/CMakeFiles/rebuild_cache.dir
